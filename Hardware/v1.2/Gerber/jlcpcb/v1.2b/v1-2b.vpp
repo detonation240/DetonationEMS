@@ -1,27 +1,22 @@
-[Outline-top]
- dpi=1000.0
- envelope=5 4 3934 3933
- count=1
- rd1=05000000040000005E0F00005D0F0000E2
 [Files]
- silk-top=v1.2.0_silkTop.gto
+ silk-top=v1.3.9_silkTop.gto
  silk-bottom=
- gerber-edge=v1.2.0_contour.gm1
- mask-top=v1.2.0_maskTop.gts
+ gerber-edge=v1.3.9_contour.gm1
+ mask-top=v1.3.9_maskTop.gts
  mask-bottom=
- copper-top=v1.2.0_copperTop.gtl
+ copper-top=v1.3.9_copperTop.gtl
  copper-bottom=
- drillfile=v1.2.0_drill.txt
+ drillfile=v1.3.9_drill.txt
  pos-top=v1-2b-pos(1).csv
- bom=v1.2b BOM CVS.csv
+ bom=jlcfiles\v1.2b BOM CVS.csv
 [File-CRC]
- silk-top=6cf4bd73
+ silk-top=90be019e
  gerber-edge=48d66e82
- mask-top=19361d72
- copper-top=d013c992
- drillfile=e91261ff
- pos-top=5f00965e
- bom=82dc956f
+ mask-top=1946e8fc
+ copper-top=630a0227
+ drillfile=91767228
+ pos-top=243c8c62
+ bom=724af4f9
 [Config]
  gerber-rotate=0
  dpi-top=1000
@@ -32,14 +27,10 @@
  profile-top=0.114 0.102 99.797 99.797 mm
  envelope-art-top=-0.013 0.000 100.013 100.000 mm
  format=vpintrinsic (VisualPlace intrinsic)
-[Cache]
- crc-top=6CF4BD73
- dpi-top=1000.0
- silk-top=vptfg-v1-2b-6cf4bd73.png
 [PlacementStages]
  currentstage=1
 [Settings]
- zoom=203
+ zoom=207
  sidebar=355
 [Restore]
  pos-top=v1-2b-pos.csv
@@ -63,6 +54,14 @@
  Hole=0
  Through=0
  MPX4250A=0
- IC1=0
- IC2=0
- IC4=0
+[Outline-top]
+ dpi=1000.0
+ envelope=5 4 3934 3933
+ count=1
+ rd1=05000000040000005E0F00005D0F0000E2
+[Cache]
+ crc-top=90BE019E
+ silk-top=vptfg-v1-2b-90be019e.png
+ dpi-top=1000.0
+[Checkmarks]
+ R27=1
