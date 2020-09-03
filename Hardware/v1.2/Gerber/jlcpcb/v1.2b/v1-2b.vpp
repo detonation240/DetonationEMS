@@ -7,8 +7,9 @@
  copper-top=v1.3.9_copperTop.gtl
  copper-bottom=
  drillfile=v1.3.9_drill.txt
- pos-top=v1-2b-pos(1).csv
+ pos-top=v1-2b-pos.csv
  bom=jlcfiles\v1.2b BOM CVS.csv
+ pos-bottom=
 [File-CRC]
  silk-top=90be019e
  gerber-edge=48d66e82
@@ -16,17 +17,18 @@
  copper-top=630a0227
  drillfile=91767228
  pos-top=243c8c62
- bom=724af4f9
+ bom=42bc669a
 [Config]
  gerber-rotate=0
  dpi-top=1000
  dpi-bottom=1000
  profile=3 100%
  origin-art-top=0.013 0.000 mm
- origin-fab-top=0.0 0.0 mm
+ origin-fab-top=0.000 0.000 mm
  profile-top=0.114 0.102 99.797 99.797 mm
  envelope-art-top=-0.013 0.000 100.013 100.000 mm
  format=vpintrinsic (VisualPlace intrinsic)
+ mirror-bottom=0
 [PlacementStages]
  currentstage=1
 [Settings]
