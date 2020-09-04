@@ -9,14 +9,13 @@
  drillfile=v1.3.9_drill.txt
  pos-top=v1-2b-pos.csv
  bom=jlcfiles\v1.2b BOM CVS.csv
- pos-bottom=
 [File-CRC]
- silk-top=90be019e
+ silk-top=d6d1e459
  gerber-edge=48d66e82
- mask-top=1946e8fc
- copper-top=630a0227
- drillfile=91767228
- pos-top=243c8c62
+ mask-top=fcf9e9e3
+ copper-top=3ef3b6be
+ drillfile=fef3e472
+ pos-top=d44e9c8f
  bom=42bc669a
 [Config]
  gerber-rotate=0
@@ -24,11 +23,10 @@
  dpi-bottom=1000
  profile=3 100%
  origin-art-top=0.013 0.000 mm
- origin-fab-top=0.000 0.000 mm
+ origin-fab-top=0.0 0.0 mm
  profile-top=0.114 0.102 99.797 99.797 mm
  envelope-art-top=-0.013 0.000 100.013 100.000 mm
  format=vpintrinsic (VisualPlace intrinsic)
- mirror-bottom=0
 [PlacementStages]
  currentstage=1
 [Settings]
@@ -62,8 +60,8 @@
  count=1
  rd1=05000000040000005E0F00005D0F0000E2
 [Cache]
- crc-top=90BE019E
- silk-top=vptfg-v1-2b-90be019e.png
+ crc-top=D6D1E459
  dpi-top=1000.0
+ silk-top=vptfg-v1-2b-d6d1e459.png
 [Checkmarks]
  R27=1
