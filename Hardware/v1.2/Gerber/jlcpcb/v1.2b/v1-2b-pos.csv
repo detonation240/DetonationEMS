@@ -1,4 +1,4 @@
-# Created by VisualPlace version 3.1.6179 at Fri Sep  4 00:41:06 2020
+# Created by VisualPlace version 3.1.6179 at Fri Sep  4 16:17:29 2020
 # Report origin: (0.0/0.0) = lower left corner of PCB
 # Units: inch
 "Designator","Value","X","Y","Rotation","Side","Package","Type"
@@ -24,7 +24,7 @@
 "C26","220nf, 0.22uf","2.5365","0.7930","0.0","Top","0805","SMD"
 "C28","220nf, 0.22uf","2.6775","0.7630","90.0","Top","0805","SMD"
 "C30","220nf, 0.22uf","2.3185","2.8190","0.0","Top","0805","SMD"
-"C11","1uf","2.7955","2.3170","0.0","Top","0805","SMD"
+"C11","1uf","2.6935","2.2820","0.0","Top","0805","SMD"
 "C12","1uf","3.0305","1.6560","0.0","Top","0805","SMD"
 "C20","1uf","0.2045","1.1560","0.0","Top","0805","SMD"
 "C16","10uf Tant","3.2655","3.6110","270.0","Top","1206","SMD"
