@@ -1,10 +1,9 @@
 DetonationEMS - (Aaron S.) (detonationems@gmail.com) (detonationems.com)
 
-v1.1 - THT DIY Kit (Beta)
-v1.2 - Passive Components SMD (Alpha)
-PreIgnition - Fully Custom DetonationEMS using Mega2560 (Alpha)
-PreIgnition v2 - DetonationEMS Atmega2560 OnBoard (Basic Schematic)
+v1.1b - THT DIY Kit (Prototype)
+v1.2b - Passive Components SMD (Prototype)
+PreIgnition - Fully Custom DetonationEMS using Mega2560 (Design in progress)
 
 
-Breakout - Beakout for Speeduino v0.4x or Detonation EMS v1.1 / v1.2 (Beta)
-Ingition Control Module - Breakout for IGBT (Beta)
+Breakout - Beakout for Speeduino v0.4x or Detonation EMS v1.x (--Final)
+Ingition Control Module - Breakout for IGBT (--Final)
