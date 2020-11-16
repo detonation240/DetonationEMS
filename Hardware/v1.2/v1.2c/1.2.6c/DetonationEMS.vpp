@@ -15,13 +15,13 @@
  pos-top=v1-2b-pos.csv
  bom=JlcFiles\BOM.csv
 [File-CRC]
- silk-top=5932bbcd
+ silk-top=74c98791
  gerber-edge=48d66e82
  mask-top=7af967d
  copper-top=4a2a34fb
- drillfile=cd47bd43
+ drillfile=6ffc68a0
  pos-top=6339bc38
- bom=555f4a90
+ bom=20cac8d8
 [Config]
  gerber-rotate=0
  dpi-top=1000
@@ -33,9 +33,9 @@
  envelope-art-top=-0.013 0.000 100.013 100.000 mm
  format=vpintrinsic (VisualPlace intrinsic)
 [Cache]
- crc-top=5932BBCD
- silk-top=vptfg-DetonationEMS-5932bbcd.png
+ crc-top=74C98791
  dpi-top=1000.0
+ silk-top=vptfg-DetonationEMS-74c98791.png
 [PlacementStages]
  currentstage=1
 [Settings]
